@@ -1,0 +1,23 @@
+*{
+  background-color:rgb(131, 57, 89);
+  color: aliceblue;
+  
+}
+h2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: dotted;
+  
+}
+div{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+}
+btn{
+  border: 50px;
+  border-color: beige;
+  box-shadow: 10px;
+}
